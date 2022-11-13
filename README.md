@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akanchha25
-- 👀 I’m interested in challenges
+-  I’m interested in challenges
 - 🌱 I’m currently learning DSA,WEB-DEVelopment,DATABASE
-- 💞️ I’m looking for entry level role in SDE...
+-  I’m looking for entry level role in SDE...
 - 📫 How to reach me ... email at akanchhakumari11@gmail.com
 
 <!---
