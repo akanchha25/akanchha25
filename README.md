@@ -1,8 +1,7 @@
 - 👋 Hi, I’m akanchha
 -  I’m interested in challenges
 - 🌱 I’m proficient in DSA, Backend Development, Frontend Development, Database management, system design
-- Technical skills - Nodejs, Express js, Nest js, MongoDB, PostgreSQL, Redis, Typescript, TypeORM, AWS S3
--  I’m looking for entry level role in SDE...
+- Technical skills - Nodejs, Express js, Nest js, MongoDB, PostgreSQL, Redis, Typescript, TypeORM, AWS S3, Golang
 - 📫 How to reach me ... email at akanchhakumari11@gmail.com
 
 <!---
